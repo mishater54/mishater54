@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&random=false&width=435&lines=Real+sins+can't+be+atoned+for;ogorodn1ck)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=7A1FF7&random=false&width=435&lines=Real+sins+can't+be+atoned+for;ogorodn1ck)](https://git.io/typing-svg)
 
 ### Pronouns: who/cares
 
