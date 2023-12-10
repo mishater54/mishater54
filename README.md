@@ -23,7 +23,7 @@ Beginning C++ developer (not to be confused with game developer) from Kharkov, U
 
 ### Languages
 ![C](https://img.shields.io/badge/C-%23000000.svg?style=flat&logo=c&logoColor=1c5bfc)
-![C++](https://img.shields.io/badge/C-%23000000.svg?style=flat&logo=c&logoColor=1c5bfc)
+![C++](https://img.shields.io/badge/C++-%23000000.svg?style=flat&logo=c++&logoColor=1c5bfc)
 
 ## Stats 📊
 https://www.codewars.com/users/Ogorodn1ck/badges/large
