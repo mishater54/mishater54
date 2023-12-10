@@ -16,14 +16,18 @@ Beginning C++ developer (not to be confused with game developer) from Kharkov, U
     <img width="32" height="32" src="https://img.icons8.com/color/48/telegram-app--v1.png"/>
 <a href="https://discord.gg/kYE2MdJd">
     <img width="32" height="32" src="https://img.icons8.com/color/48/discord-logo.png" />
-<a href="https://twitter.com/ogorodn1ck">
-    <img width="32" heigth="32" src="https://icons8.com/icon/phOKFKYpe00C/twitterx" />
 
 ## Skills
 
 ### Languages
 ![C](https://img.shields.io/badge/C-%23000000.svg?style=flat&logo=c&logoColor=1c5bfc)
 ![C++](https://img.shields.io/badge/C++-%23000000.svg?style=flat&logo=cplusplus&logoColor=1c5bfc)
+![Python](https://img.shields.io/badge/Python-%23000000.svg?style=flat&logo=python&logoColor=1c5bfc)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23000000.svg?style=flat&logo=html5&logoColor=1c5bfc)
+![CSS3](https://img.shields.io/badge/CSS3-%23000000.svg?style=flat&logo=css3&logoColor=1c5bfc)
+
 
 ## Stats 📊
 ![codewars](https://www.codewars.com/users/Ogorodn1ck/badges/large)
