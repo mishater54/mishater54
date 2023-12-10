@@ -21,12 +21,12 @@ Beginning C++ developer (not to be confused with game developer) from Kharkov, U
 
 ### Languages
 ![C](https://img.shields.io/badge/C-%23000000.svg?style=flat&logo=c&logoColor=1c5bfc)
-![C++](https://img.shields.io/badge/C++-%23000000.svg?style=flat&logo=cplusplus&logoColor=1c5bfc)
-![Python](https://img.shields.io/badge/Python-%23000000.svg?style=flat&logo=python&logoColor=1c5bfc)
+![C++](https://img.shields.io/badge/C++-%23000000.svg?style=flat&logo=cplusplus&logoColor=vite)
+![Python](https://img.shields.io/badge/Python-%23000000.svg?style=flat&logo=python&logoColor=0ec942)
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23000000.svg?style=flat&logo=html5&logoColor=1c5bfc)
-![CSS3](https://img.shields.io/badge/CSS3-%23000000.svg?style=flat&logo=css3&logoColor=1c5bfc)
+![HTML5](https://img.shields.io/badge/HTML5-%23000000.svg?style=flat&logo=html5&logoColor=ff931f)
+![CSS3](https://img.shields.io/badge/CSS3-%23000000.svg?style=flat&logo=css3&logoColor=165af7)
 
 
 ## Stats 📊
