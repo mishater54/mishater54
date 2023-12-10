@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=F724A5&random=false&width=435&lines=Imitation+is+the+highest+form+of+admiration;ogorodnc1ck)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&random=false&width=435&lines=Imitation+is+the+highest+form+of+admiration;ogorodn1ck)](https://git.io/typing-svg)
 
 ### Pronouns: who/cares
 
