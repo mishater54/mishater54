@@ -6,8 +6,8 @@ Beginning C++ developer (not to be confused with game developer) from Kharkov, U
 
 ### Goals
 - Learn С/С++
+- Learn Eng/Pol
 - Graduate
-- Graduate second time
 
 ### Reach me
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
