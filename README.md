@@ -9,6 +9,9 @@ Beginning C++ developer (not to be confused with game developer) from Kharkov, U
 - Learn Eng/Pol
 - Graduate
 
+### Project I'm working on
+Exchange rate application
+
 ### Reach me
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
     <img width="32" height="32" src="https://img.icons8.com/color/48/youtube-play.png"/>
