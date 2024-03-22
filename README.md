@@ -5,7 +5,7 @@
 Beginning C++ developer (not to be confused with game developer) from Kharkov, Ukraine. In the past was involved in website development and some bots, but something went wrong
 
 ### Goals
-- Learn С/С++
+- Learn С/С++/C#
 - Learn Eng/Pol
 - Graduate
 
