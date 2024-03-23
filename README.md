@@ -10,7 +10,7 @@ Beginning C++/C# developer from Kharkov, Ukraine. In the past was involved in we
 - Graduate (Math student, in future - Computer Science)
 
 ### Project I'm working on
-Exchange rate application
+
 
 ### Reach me
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
