@@ -25,7 +25,7 @@ Beginning C++/C# developer from Kharkov, Ukraine. In the past was involved in we
 ### Languages
 ![C](https://img.shields.io/badge/C-%23000000.svg?style=flat&logo=c&logoColor=1c5bfc)
 ![C++](https://img.shields.io/badge/C++-%23000000.svg?style=flat&logo=cplusplus&logoColor=vite)
-![C#](https://img.shields.io/badge/C%23-%23000000.svg?style=flat&logo=c&logoColor=1c5bfc)
+![C#](https://img.shields.io/badge/C%23-%23000000.svg?style=flat&logo=csharp&logoColor=1c5bfc)
 ![Python](https://img.shields.io/badge/Python-%23000000.svg?style=flat&logo=python&logoColor=0ec942)
 
 ### Frontend
