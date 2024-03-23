@@ -7,7 +7,7 @@ Beginning C++ developer (not to be confused with game developer) from Kharkov, U
 ### Goals
 - Learn С/С++/C#
 - Learn Eng/Pol
-- Graduate
+- Graduate (Math student, in future - Computer Science)
 
 ### Project I'm working on
 Exchange rate application
@@ -25,6 +25,7 @@ Exchange rate application
 ### Languages
 ![C](https://img.shields.io/badge/C-%23000000.svg?style=flat&logo=c&logoColor=1c5bfc)
 ![C++](https://img.shields.io/badge/C++-%23000000.svg?style=flat&logo=cplusplus&logoColor=vite)
+![C#](https://img.shields.io/badge/C#-%23000000.svg?style=flat&logo=c&logoColor=1c5bfc)
 ![Python](https://img.shields.io/badge/Python-%23000000.svg?style=flat&logo=python&logoColor=0ec942)
 
 ### Frontend
