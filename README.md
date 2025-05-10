@@ -11,7 +11,7 @@ Beginning C++/C# developer from Kharkov, Ukraine. In the past was involved in we
 
 ### Project I'm working on
 
-BlackJack console game
+---------
 
 ### Reach me
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
