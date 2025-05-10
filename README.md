@@ -5,9 +5,9 @@
 Beginning C++/C# developer from Kharkov, Ukraine. In the past was involved in website development and some bots, but something went wrong
 
 ### Goals
-- Learn С/С++/C#
+- Learn С/С++
 - Learn Eng/Pol
-- Graduate (Math student, in future - Computer Science)
+- Graduate (Math student - in past, in future - Computer Science)
 
 ### Project I'm working on
 
