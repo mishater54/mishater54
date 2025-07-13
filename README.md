@@ -2,12 +2,12 @@
 
 ### Pronouns: who/cares
 
-Beginning C++/C developer from Kharkov, Ukraine. In the past was involved in website development and some bots, but something went wrong
+Beginning C++/C developer from Kharkiv, Ukraine. In the past was involved in website development and some bots, but something went wrong
 
 ### Goals
 - Learn С/С++
-- Learn Eng/Pol
-- Graduate (Math student - in past, in future - Computer Science)
+- Learn Eng (now - A2/B1)/Pol (now - B2)
+- Graduate (bachelor degree "Computer Science" 2024 - 2028)
 
 ### Project I'm working on
 
@@ -35,3 +35,4 @@ Beginning C++/C developer from Kharkov, Ukraine. In the past was involved in web
 
 ## Stats 📊
 ![codewars](https://www.codewars.com/users/Ogorodn1ck/badges/large)
+![Ogorodn1ck`s LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/Ogorodn1ck?theme=dark&bgColor=282828)
