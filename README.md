@@ -34,5 +34,4 @@ Beginning C++/C developer from Kharkiv, Ukraine. In the past was involved in web
 
 
 ## Stats 📊
-![codewars](https://www.codewars.com/users/Ogorodn1ck/badges/large)
 ![Ogorodn1ck`s LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/Ogorodn1ck?theme=dark&bgColor=282828)
