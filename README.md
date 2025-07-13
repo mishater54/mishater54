@@ -30,7 +30,7 @@ Beginning C++/C developer from Kharkiv, Ukraine. In the past was involved in web
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23000000.svg?style=flat&logo=html5&logoColor=ff931f)
-![CSS3](https://img.shields.io/badge/CSS3-%23000000.svg?style=flat&logo=css3&logoColor=165af7)
+![CSS3](https://img.shields.io/badge/CSS3-%23000000.svg?style=flat&logo=css&logoColor=165af7)
 
 
 ## Stats 📊
