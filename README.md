@@ -6,7 +6,7 @@ Beginning C++/C developer from Kharkiv, Ukraine. In the past was involved in web
 
 ### Goals
 - Learn С/С++
-- Learn Eng (now - A2/B1)/Pol (now - B2)
+- Learn Eng (now - A2/B1)/Pol (now - B2/C1)
 - Graduate (bachelor degree "Computer Science" 2024 - 2028)
 
 ### Project I'm working on
